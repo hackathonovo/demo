@@ -1,4 +1,7 @@
-# Demo
+# Team Demo
+
+Contestant repository for [Hackathonovo by IN2](http://hackathonovo.in2.hr/) competition
+
 
 ## Members
 - Member 1
