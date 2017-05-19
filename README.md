@@ -6,7 +6,7 @@ Contestant repository for [Hackathonovo by IN2](http://hackathonovo.in2.hr/) com
 ## Members
 - Member 1
 - Member 2
-- ....
+- ...
 
 ## License
 
